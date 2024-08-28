@@ -1,0 +1,49 @@
+# Projeto: Cálculo de Nova Idade
+
+Este projeto é um programa em Python que calcula a idade de uma pessoa adicionando 5 anos à idade fornecida pelo usuário. O objetivo é demonstrar o uso de operações aritméticas básicas e a manipulação de entradas e saídas em Python.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Exemplos de Uso](#exemplos-de-uso)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+- [Contato](#contato)
+
+## Descrição
+
+O programa solicita ao usuário que insira a sua idade atual e calcula a nova idade após adicionar 5 anos. O resultado é exibido com uma mensagem informativa.
+
+## Funcionalidades
+
+- Solicita ao usuário que insira sua idade atual.
+- Adiciona 5 anos à idade fornecida.
+- Exibe a nova idade resultante.
+
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação:** Python 3.x
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Python 3.x instalado.
+
+### Passos para Execução
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Cristina1607/-Alteracao_de_Idade.git
+2. Navegue até o diretório do projeto:
+   cd nome-do-repositorio
+3. Execute o programa:
+   python3 nome_do_arquivo.py
+4. Digite a idade quando solicitado.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
