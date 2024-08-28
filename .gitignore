@@ -1,0 +1,37 @@
+
+```plaintext
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+ Cálculo de Nova Idade
+
+Descrição: Desenvolva um programa em Python que solicita ao usuário sua idade atual e calcula a nova idade adicionando 5 anos. O programa deve exibir a nova idade com uma mensagem informativa.
+
+Funcionalidades obrigatórias:
+
+1. Leitura da idade fornecida pelo usuário.
+2. Adição de 5 anos à idade fornecida.
+3. Exibição da nova idade com uma mensagem informativa.
+Tecnologias: Python 3.x
+
+Licença: MIT License
